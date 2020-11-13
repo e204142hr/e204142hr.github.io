@@ -1,0 +1,26 @@
+h1{
+    color:floralwhite;
+    font-size:30px;
+    font-weight:bold;
+    font-family:"Impct";
+    text-align: center;
+    background-color: black;
+}
+h2{
+    color:floralwhite;
+    font-size:25px;
+    text-align: center;
+    background-color: blue;
+}
+table{
+    color:red;
+    font-size:25px;
+    text-align: center;
+    background-color: aqua;
+}
+
+body{
+    background-image: url(../images/back4.jpg);
+}
+
+
