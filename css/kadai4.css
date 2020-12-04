@@ -1,0 +1,32 @@
+h1{
+    color:floralwhite;
+    font-size:30px;
+    font-weight:bold;
+    font-family:"Impct";
+    text-align: center;
+    background-color: black;
+}
+h2{
+    color:blue;
+    font-size:25px;
+    font-weight:normal;
+    text-align:center;
+    background-color:green;
+}
+h3{
+    color:magenta;
+    font-size:25px;
+    font-weight:normal;
+    text-align:center;
+    background-color:tan;
+}
+h4{
+    color:chartreuse;
+    font-size:25px;
+    font-weight:normal;
+    text-align:center;
+    background-color:yellow;
+}
+body{
+    background-image: url(../images/09.jpeg);
+}
